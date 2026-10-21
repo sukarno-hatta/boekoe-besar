@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+Sitemap: https://sukarno-hatta.github.io/boekoe-besar/sitemap.xml
